@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.35.250.64:5000/jesusjones92/devops
-  tag: 0.0.1
+  tag: 0.0.2
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
